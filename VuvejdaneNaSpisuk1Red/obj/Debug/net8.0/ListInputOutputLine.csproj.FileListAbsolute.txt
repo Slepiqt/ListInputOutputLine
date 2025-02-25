@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\bin\Debug\net8.0\ListInputOutputLine.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\bin\Debug\net8.0\ListInputOutputLine.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\bin\Debug\net8.0\ListInputOutputLine.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\bin\Debug\net8.0\ListInputOutputLine.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\bin\Debug\net8.0\ListInputOutputLine.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\refint\ListInputOutputLine.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ListInputOutputLine.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\VuvejdaneNaSpisuk1Red\obj\Debug\net8.0\ref\ListInputOutputLine.dll

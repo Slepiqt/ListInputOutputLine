@@ -1,0 +1,14 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\bin\Debug\net8.0\SpisukOtImena.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\refint\SpisukOtImena.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\ref\SpisukOtImena.dll
