@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\refint\SpisukOtKrainosti.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtKrainosti\obj\Debug\net8.0\ref\SpisukOtKrainosti.dll

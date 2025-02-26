@@ -12,3 +12,4 @@ C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\
 C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.pdb
 C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.genruntimeconfig.cache
 C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\ref\SpisukOtImena.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtImena\obj\Debug\net8.0\SpisukOtImena.sourcelink.json

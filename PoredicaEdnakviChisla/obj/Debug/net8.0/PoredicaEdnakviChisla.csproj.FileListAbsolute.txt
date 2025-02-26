@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\refint\PoredicaEdnakviChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\ref\PoredicaEdnakviChisla.dll

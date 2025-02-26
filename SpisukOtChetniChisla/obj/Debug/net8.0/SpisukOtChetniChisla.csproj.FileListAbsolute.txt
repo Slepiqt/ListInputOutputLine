@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\bin\Debug\net8.0\SpisukOtChetniChisla.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\bin\Debug\net8.0\SpisukOtChetniChisla.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\bin\Debug\net8.0\SpisukOtChetniChisla.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\bin\Debug\net8.0\SpisukOtChetniChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\bin\Debug\net8.0\SpisukOtChetniChisla.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\refint\SpisukOtChetniChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\SpisukOtChetniChisla.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SpisukOtChetniChisla\obj\Debug\net8.0\ref\SpisukOtChetniChisla.dll
