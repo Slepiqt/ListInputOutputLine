@@ -1,0 +1,15 @@
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\bin\Debug\net8.0\IzvlichaneNaSredniteChisla.exe
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\bin\Debug\net8.0\IzvlichaneNaSredniteChisla.deps.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\bin\Debug\net8.0\IzvlichaneNaSredniteChisla.runtimeconfig.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\bin\Debug\net8.0\IzvlichaneNaSredniteChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\bin\Debug\net8.0\IzvlichaneNaSredniteChisla.pdb
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.AssemblyInfoInputs.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.AssemblyInfo.cs
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.csproj.CoreCompileInputs.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.sourcelink.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\refint\IzvlichaneNaSredniteChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.pdb
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\IzvlichaneNaSredniteChisla.genruntimeconfig.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\IzvlichaneNaSredniteChisla\obj\Debug\net8.0\ref\IzvlichaneNaSredniteChisla.dll

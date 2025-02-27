@@ -1,0 +1,15 @@
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\bin\Debug\net8.0\Obratnochislo.exe
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\bin\Debug\net8.0\Obratnochislo.deps.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\bin\Debug\net8.0\Obratnochislo.runtimeconfig.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\bin\Debug\net8.0\Obratnochislo.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\bin\Debug\net8.0\Obratnochislo.pdb
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.AssemblyInfoInputs.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.AssemblyInfo.cs
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.csproj.CoreCompileInputs.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.sourcelink.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\refint\Obratnochislo.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.pdb
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\Obratnochislo.genruntimeconfig.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\Obratnochislo\obj\Debug\net8.0\ref\Obratnochislo.dll

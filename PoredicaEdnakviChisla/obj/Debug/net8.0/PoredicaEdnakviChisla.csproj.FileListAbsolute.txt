@@ -13,3 +13,18 @@ C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChi
 C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.pdb
 C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.genruntimeconfig.cache
 C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\PoredicaEdnakviChisla\obj\Debug\net8.0\ref\PoredicaEdnakviChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.exe
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.deps.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.runtimeconfig.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\bin\Debug\net8.0\PoredicaEdnakviChisla.pdb
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.AssemblyInfoInputs.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.AssemblyInfo.cs
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.csproj.CoreCompileInputs.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.sourcelink.json
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\refint\PoredicaEdnakviChisla.dll
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.pdb
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\PoredicaEdnakviChisla.genruntimeconfig.cache
+C:\Mr.Proper 9a klas\ListInputOutputLine\PoredicaEdnakviChisla\obj\Debug\net8.0\ref\PoredicaEdnakviChisla.dll

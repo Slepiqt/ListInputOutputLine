@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpisukOtKrainosti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05cfdc0bcafb70f4cf5259f800a74911aab2f843")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48fec5e1a22a5150e86fe3648f5f324dafa644a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpisukOtKrainosti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpisukOtKrainosti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
