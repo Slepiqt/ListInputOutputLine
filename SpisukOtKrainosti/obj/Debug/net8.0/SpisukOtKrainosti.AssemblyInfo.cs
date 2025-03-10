@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpisukOtKrainosti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48fec5e1a22a5150e86fe3648f5f324dafa644a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7f19919f38efdb5b7ae41756c4232c88f8f72e8")]
+>>>>>>> 8931b499908fafc63c5bc4d0042667da8f7b2a3a
 [assembly: System.Reflection.AssemblyProductAttribute("SpisukOtKrainosti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpisukOtKrainosti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

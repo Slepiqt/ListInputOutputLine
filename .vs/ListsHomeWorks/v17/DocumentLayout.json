@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\",
+  "WorkspaceRootPath": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E5DA7D7A-F0D7-4508-9965-301C29E92B68}|MnojestvoNaSumi\\MnojestvoNaSumi.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\mnojestvonasumi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5DA7D7A-F0D7-4508-9965-301C29E92B68}|MnojestvoNaSumi\\MnojestvoNaSumi.csproj|solutionrelative:mnojestvonasumi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,27 +13,42 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{856D5DC3-5ACC-4AA7-A42F-629942A5E254}|SumNaOburnatiChisla\\SumNaOburnatiChisla.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{F151157E-D9D9-4566-BB82-3B753275377D}|Metodi\\Metodi.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\metodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F151157E-D9D9-4566-BB82-3B753275377D}|Metodi\\Metodi.csproj|solutionrelative:metodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34DE5DE-DEC7-4344-AB06-54FD41241F36}|Obratnochislo\\Obratnochislo.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\obratnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34DE5DE-DEC7-4344-AB06-54FD41241F36}|Obratnochislo\\Obratnochislo.csproj|solutionrelative:obratnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856D5DC3-5ACC-4AA7-A42F-629942A5E254}|SumNaOburnatiChisla\\SumNaOburnatiChisla.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 8931b499908fafc63c5bc4d0042667da8f7b2a3a
       "RelativeMoniker": "D:0:0:{856D5DC3-5ACC-4AA7-A42F-629942A5E254}|SumNaOburnatiChisla\\SumNaOburnatiChisla.csproj|solutionrelative:sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92FCA3A-03BB-4CF3-B1BB-752C57610392}|SpisukOtKrainosti\\SpisukOtKrainosti.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\spisukotkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92FCA3A-03BB-4CF3-B1BB-752C57610392}|SpisukOtKrainosti\\SpisukOtKrainosti.csproj|solutionrelative:spisukotkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{393F9191-74C8-4BD5-BC82-6A09BC94CF80}|IzvlichaneNaSredniteChisla\\IzvlichaneNaSredniteChisla.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\izvlichanenasrednitechisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393F9191-74C8-4BD5-BC82-6A09BC94CF80}|IzvlichaneNaSredniteChisla\\IzvlichaneNaSredniteChisla.csproj|solutionrelative:izvlichanenasrednitechisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE6CE9EC-1286-47B8-99E9-0C7E7E9990E0}|PoredicaEdnakviChisla\\PoredicaEdnakviChisla.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\poredicaednakvichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6CE9EC-1286-47B8-99E9-0C7E7E9990E0}|PoredicaEdnakviChisla\\PoredicaEdnakviChisla.csproj|solutionrelative:poredicaednakvichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A70E5B7-18DB-4EF1-98B5-3578654C0F0C}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A70E5B7-18DB-4EF1-98B5-3578654C0F0C}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|solutionrelative:spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BCF5903-EF01-4D82-8CBD-6D0BCCCA1A7A}|VuvejdaneNaSpisuk1Red\\ListInputOutputLine.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\vuvejdanenaspisuk1red\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BCF5903-EF01-4D82-8CBD-6D0BCCCA1A7A}|VuvejdaneNaSpisuk1Red\\ListInputOutputLine.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\vuvejdanenaspisuk1red\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BCF5903-EF01-4D82-8CBD-6D0BCCCA1A7A}|VuvejdaneNaSpisuk1Red\\ListInputOutputLine.csproj|solutionrelative:vuvejdanenaspisuk1red\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A3BB743-4A1A-4006-9511-944A736526B0}|SpisukOtImena\\SpisukOtImena.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\spisukotimena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F92FCA3A-03BB-4CF3-B1BB-752C57610392}|SpisukOtKrainosti\\SpisukOtKrainosti.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\spisukotkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92FCA3A-03BB-4CF3-B1BB-752C57610392}|SpisukOtKrainosti\\SpisukOtKrainosti.csproj|solutionrelative:spisukotkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3BB743-4A1A-4006-9511-944A736526B0}|SpisukOtImena\\SpisukOtImena.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\spisukotimena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A3BB743-4A1A-4006-9511-944A736526B0}|SpisukOtImena\\SpisukOtImena.csproj|solutionrelative:spisukotimena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A70E5B7-18DB-4EF1-98B5-3578654C0F0C}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A70E5B7-18DB-4EF1-98B5-3578654C0F0C}|SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj|solutionrelative:spisukotchetnichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6CE9EC-1286-47B8-99E9-0C7E7E9990E0}|PoredicaEdnakviChisla\\PoredicaEdnakviChisla.csproj|c:\\mr.proper 9a klas\\listinputoutputline\\poredicaednakvichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6CE9EC-1286-47B8-99E9-0C7E7E9990E0}|PoredicaEdnakviChisla\\PoredicaEdnakviChisla.csproj|solutionrelative:poredicaednakvichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,16 +58,13 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\MnojestvoNaSumi\\Program.cs",
               "RelativeDocumentMoniker": "MnojestvoNaSumi\\Program.cs",
               "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\MnojestvoNaSumi\\Program.cs",
@@ -84,17 +97,28 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T21:15:15.247Z"
+=======
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Metodi\\Program.cs",
+              "RelativeDocumentMoniker": "Metodi\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Metodi\\Program.cs",
+              "RelativeToolTip": "Metodi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:00:31.265Z",
+              "EditorCaption": ""
+>>>>>>> 8931b499908fafc63c5bc4d0042667da8f7b2a3a
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\PoredicaEdnakviChisla\\Program.cs",
-              "RelativeDocumentMoniker": "PoredicaEdnakviChisla\\Program.cs",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\PoredicaEdnakviChisla\\Program.cs",
-              "RelativeToolTip": "PoredicaEdnakviChisla\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SumNaOburnatiChisla\\Program.cs",
+              "RelativeDocumentMoniker": "SumNaOburnatiChisla\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SumNaOburnatiChisla\\Program.cs",
+              "RelativeToolTip": "SumNaOburnatiChisla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-26T20:02:03.305Z"
             },
             {
@@ -120,14 +144,41 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T19:12:27.085Z"
+=======
+              "WhenOpened": "2025-02-26T21:15:15.247Z"
+>>>>>>> 8931b499908fafc63c5bc4d0042667da8f7b2a3a
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtImena\\Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtKrainosti\\Program.cs",
+              "RelativeDocumentMoniker": "SpisukOtKrainosti\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtKrainosti\\Program.cs",
+              "RelativeToolTip": "SpisukOtKrainosti\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:23:29.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\Program.cs",
+              "RelativeDocumentMoniker": "SpisukOtChetniChisla\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\Program.cs",
+              "RelativeToolTip": "SpisukOtChetniChisla\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:12:27.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtImena\\Program.cs",
               "RelativeDocumentMoniker": "SpisukOtImena\\Program.cs",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtImena\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtImena\\Program.cs",
               "RelativeToolTip": "SpisukOtImena\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,13 +188,52 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\VuvejdaneNaSpisuk1Red\\Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\VuvejdaneNaSpisuk1Red\\Program.cs",
               "RelativeDocumentMoniker": "VuvejdaneNaSpisuk1Red\\Program.cs",
-              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\VuvejdaneNaSpisuk1Red\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\VuvejdaneNaSpisuk1Red\\Program.cs",
               "RelativeToolTip": "VuvejdaneNaSpisuk1Red\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T18:55:02.524Z"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\IzvlichaneNaSredniteChisla\\Program.cs",
+              "RelativeDocumentMoniker": "IzvlichaneNaSredniteChisla\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\IzvlichaneNaSredniteChisla\\Program.cs",
+              "RelativeToolTip": "IzvlichaneNaSredniteChisla\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:32:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Obratnochislo\\Program.cs",
+              "RelativeDocumentMoniker": "Obratnochislo\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Obratnochislo\\Program.cs",
+              "RelativeToolTip": "Obratnochislo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:12:01.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\PoredicaEdnakviChisla\\Program.cs",
+              "RelativeDocumentMoniker": "PoredicaEdnakviChisla\\Program.cs",
+              "ToolTip": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\PoredicaEdnakviChisla\\Program.cs",
+              "RelativeToolTip": "PoredicaEdnakviChisla\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:02:03.305Z"
+>>>>>>> 8931b499908fafc63c5bc4d0042667da8f7b2a3a
             }
           ]
         }

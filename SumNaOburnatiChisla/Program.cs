@@ -7,7 +7,7 @@
             Console.Write("Въведи числата = ");
             List<int> chisla = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
             List<int> oburnati = new List<int>();
-            int duljina = 0;
+            
             int sum = 0;
             for (int i = 0; i < chisla.Count; i++)
             {
