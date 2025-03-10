@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\bin\Debug\net8.0\BezopasnaObrabotkaNaMasiv.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\bin\Debug\net8.0\BezopasnaObrabotkaNaMasiv.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\bin\Debug\net8.0\BezopasnaObrabotkaNaMasiv.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\bin\Debug\net8.0\BezopasnaObrabotkaNaMasiv.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\bin\Debug\net8.0\BezopasnaObrabotkaNaMasiv.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\refint\BezopasnaObrabotkaNaMasiv.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\BezopasnaObrabotkaNaMasiv.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\BezopasnaObrabotkaNaMasiv\obj\Debug\net8.0\ref\BezopasnaObrabotkaNaMasiv.dll

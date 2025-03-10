@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5DA7D7A-F0D7-4508-9965-301C29E92B68}|MnojestvoNaSumi\\MnojestvoNaSumi.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\mnojestvonasumi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DA7D7A-F0D7-4508-9965-301C29E92B68}|MnojestvoNaSumi\\MnojestvoNaSumi.csproj|solutionrelative:mnojestvonasumi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F457D6-4BF4-4E30-9CA8-0040E89BD99E}|BezopasnaObrabotkaNaMasiv\\BezopasnaObrabotkaNaMasiv.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\bezopasnaobrabotkanamasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F457D6-4BF4-4E30-9CA8-0040E89BD99E}|BezopasnaObrabotkaNaMasiv\\BezopasnaObrabotkaNaMasiv.csproj|solutionrelative:bezopasnaobrabotkanamasiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{856D5DC3-5ACC-4AA7-A42F-629942A5E254}|SumNaOburnatiChisla\\SumNaOburnatiChisla.csproj|c:\\users\\atana\\onedrive\\desktop\\listshomeworks\\listshomeworks\\sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856D5DC3-5ACC-4AA7-A42F-629942A5E254}|SumNaOburnatiChisla\\SumNaOburnatiChisla.csproj|solutionrelative:sumnaoburnatichisla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,18 +52,42 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\MnojestvoNaSumi\\Program.cs",
+              "RelativeDocumentMoniker": "MnojestvoNaSumi\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\MnojestvoNaSumi\\Program.cs",
+              "RelativeToolTip": "MnojestvoNaSumi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:24:48.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\BezopasnaObrabotkaNaMasiv\\Program.cs",
+              "RelativeDocumentMoniker": "BezopasnaObrabotkaNaMasiv\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\BezopasnaObrabotkaNaMasiv\\Program.cs",
+              "RelativeToolTip": "BezopasnaObrabotkaNaMasiv\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwF8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:43:54.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SumNaOburnatiChisla\\Program.cs",
               "RelativeDocumentMoniker": "SumNaOburnatiChisla\\Program.cs",
               "ToolTip": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SumNaOburnatiChisla\\Program.cs",
               "RelativeToolTip": "SumNaOburnatiChisla\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T21:15:15.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T21:15:15.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\PoredicaEdnakviChisla\\Program.cs",
               "RelativeDocumentMoniker": "PoredicaEdnakviChisla\\Program.cs",
@@ -63,12 +95,11 @@
               "RelativeToolTip": "PoredicaEdnakviChisla\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T20:02:03.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T20:02:03.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtKrainosti\\Program.cs",
               "RelativeDocumentMoniker": "SpisukOtKrainosti\\Program.cs",
@@ -76,12 +107,11 @@
               "RelativeToolTip": "SpisukOtKrainosti\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:23:29.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:23:29.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtChetniChisla\\Program.cs",
               "RelativeDocumentMoniker": "SpisukOtChetniChisla\\Program.cs",
@@ -89,12 +119,11 @@
               "RelativeToolTip": "SpisukOtChetniChisla\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T19:12:27.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T19:12:27.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtImena\\Program.cs",
               "RelativeDocumentMoniker": "SpisukOtImena\\Program.cs",
@@ -102,12 +131,11 @@
               "RelativeToolTip": "SpisukOtImena\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:04:39.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T19:04:39.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\VuvejdaneNaSpisuk1Red\\Program.cs",
               "RelativeDocumentMoniker": "VuvejdaneNaSpisuk1Red\\Program.cs",
@@ -115,8 +143,7 @@
               "RelativeToolTip": "VuvejdaneNaSpisuk1Red\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T18:55:02.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T18:55:02.524Z"
             }
           ]
         }

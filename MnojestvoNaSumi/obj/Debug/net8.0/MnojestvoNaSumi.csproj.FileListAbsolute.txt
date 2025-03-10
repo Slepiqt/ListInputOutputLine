@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\bin\Debug\net8.0\MnojestvoNaSumi.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\bin\Debug\net8.0\MnojestvoNaSumi.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\bin\Debug\net8.0\MnojestvoNaSumi.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\bin\Debug\net8.0\MnojestvoNaSumi.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\bin\Debug\net8.0\MnojestvoNaSumi.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\refint\MnojestvoNaSumi.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\MnojestvoNaSumi.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\MnojestvoNaSumi\obj\Debug\net8.0\ref\MnojestvoNaSumi.dll
