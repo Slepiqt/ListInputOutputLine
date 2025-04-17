@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Obratnochislo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7f19919f38efdb5b7ae41756c4232c88f8f72e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d4f42a882cf73a2e5c23ef97c7e7c16ee78422")]
 [assembly: System.Reflection.AssemblyProductAttribute("Obratnochislo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obratnochislo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

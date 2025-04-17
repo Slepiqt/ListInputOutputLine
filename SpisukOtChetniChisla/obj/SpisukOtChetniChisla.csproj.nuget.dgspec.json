@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj": {}
+    "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj": {}
   },
   "projects": {
-    "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj": {
+    "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj",
+        "projectUniqueName": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj",
         "projectName": "SpisukOtChetniChisla",
-        "projectPath": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj",
-        "packagesPath": "C:\\Users\\1212-6\\.nuget\\packages\\",
-        "outputPath": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\SpisukOtChetniChisla\\obj\\",
+        "projectPath": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtChetniChisla\\SpisukOtChetniChisla.csproj",
+        "packagesPath": "C:\\Users\\atana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\SpisukOtChetniChisla\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\1212-6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\atana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

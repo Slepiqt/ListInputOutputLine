@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\bin\Debug\net8.0\Podgotovka.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\bin\Debug\net8.0\Podgotovka.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\bin\Debug\net8.0\Podgotovka.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\bin\Debug\net8.0\Podgotovka.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\bin\Debug\net8.0\Podgotovka.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\refint\Podgotovka.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\Podgotovka.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Podgotovka\obj\Debug\net8.0\ref\Podgotovka.dll

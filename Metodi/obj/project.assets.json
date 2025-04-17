@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\1212-6\\.nuget\\packages\\": {},
+    "C:\\Users\\atana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Metodi\\Metodi.csproj",
+      "projectUniqueName": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\Metodi\\Metodi.csproj",
       "projectName": "Metodi",
-      "projectPath": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Metodi\\Metodi.csproj",
-      "packagesPath": "C:\\Users\\1212-6\\.nuget\\packages\\",
-      "outputPath": "C:\\Mr.Proper 9a klas\\ListInputOutputLine\\Metodi\\obj\\",
+      "projectPath": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\Metodi\\Metodi.csproj",
+      "packagesPath": "C:\\Users\\atana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\atana\\OneDrive\\Desktop\\ListsHomeWorks\\ListsHomeWorks\\Metodi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\1212-6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

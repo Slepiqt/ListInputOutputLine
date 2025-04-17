@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\bin\Debug\net8.0\SortiraneNaChisla.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\bin\Debug\net8.0\SortiraneNaChisla.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\bin\Debug\net8.0\SortiraneNaChisla.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\bin\Debug\net8.0\SortiraneNaChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\bin\Debug\net8.0\SortiraneNaChisla.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\refint\SortiraneNaChisla.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\SortiraneNaChisla.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\SortiraneNaChisla\obj\Debug\net8.0\ref\SortiraneNaChisla.dll

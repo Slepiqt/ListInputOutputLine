@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MnojestvoNaSumi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48fec5e1a22a5150e86fe3648f5f324dafa644a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d4f42a882cf73a2e5c23ef97c7e7c16ee78422")]
 [assembly: System.Reflection.AssemblyProductAttribute("MnojestvoNaSumi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MnojestvoNaSumi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

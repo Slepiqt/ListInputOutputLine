@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\bin\Debug\net8.0\Family.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\bin\Debug\net8.0\Family.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\bin\Debug\net8.0\Family.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\bin\Debug\net8.0\Family.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\bin\Debug\net8.0\Family.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\refint\Family.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Family\obj\Debug\net8.0\ref\Family.dll

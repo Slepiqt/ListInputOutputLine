@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\bin\Debug\net8.0\DefKlasChovek.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\bin\Debug\net8.0\DefKlasChovek.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\bin\Debug\net8.0\DefKlasChovek.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\bin\Debug\net8.0\DefKlasChovek.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\bin\Debug\net8.0\DefKlasChovek.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\refint\DefKlasChovek.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\DefKlasChovek.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\DefKlasChovek\obj\Debug\net8.0\ref\DefKlasChovek.dll

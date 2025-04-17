@@ -1,0 +1,15 @@
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\bin\Debug\net8.0\Statistika.exe
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\bin\Debug\net8.0\Statistika.deps.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\bin\Debug\net8.0\Statistika.runtimeconfig.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\bin\Debug\net8.0\Statistika.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\bin\Debug\net8.0\Statistika.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.AssemblyInfoInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.AssemblyInfo.cs
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.csproj.CoreCompileInputs.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.sourcelink.json
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\refint\Statistika.dll
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.pdb
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\Statistika.genruntimeconfig.cache
+C:\Users\atana\OneDrive\Desktop\ListsHomeWorks\ListsHomeWorks\Statistika\obj\Debug\net8.0\ref\Statistika.dll
